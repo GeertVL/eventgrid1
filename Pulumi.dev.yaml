@@ -1,0 +1,4 @@
+config:
+  azure:environment: public
+  azure:location: EastUS
+  eventgrid1:sqlUsername: geert
